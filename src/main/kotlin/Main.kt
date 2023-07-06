@@ -1,4 +1,4 @@
-const val heroName = "MAdrigal"
+const val HERO_NAME = "Madrigal"
 
 fun main(){
     println("Hello, world!")
@@ -6,7 +6,7 @@ fun main(){
     println(playerLevel)
 
     
-    println(heroName)
+    println(HERO_NAME)
     println("The hero embarks on her2 journey to locate the enchanted sword.")
     playerLevel = 5
     println(playerLevel)
